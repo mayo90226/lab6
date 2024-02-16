@@ -8,6 +8,12 @@ h1{
     font-style: italic;
 }
 
+.rightlean{
+    text-align: right;
+}
+.headingCenter{
+    text-align: center;
+}
 h2{
     margin-left: 100px;
     vertical-align: top;

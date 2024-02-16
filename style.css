@@ -1,0 +1,65 @@
+h1{
+    text-shadow:  2px 2px #000000;
+    display: inline;
+    vertical-align: top;
+    padding-left: 10px;
+    color: orange;
+    font-size: 38px;
+    font-style: italic;
+}
+
+h2{
+    margin-left: 100px;
+    vertical-align: top;
+    display: inline;
+}
+
+.pumpkin{
+    display: inline-block;
+    margin-top: 40px;
+    width: auto;
+}
+
+img{
+    display: inline-block;
+}
+
+CapLar{
+    font-size: 45px;
+}
+
+b{
+    font-size: 20px;
+}
+
+.textbody{
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+.ProductLists{
+    padding-top: 10px;
+}
+
+.ProductLists a:hover{
+    color: greenyellow(0, 255, 119);
+}
+
+.ProductLists a:visited:hover{
+    color: greenyellow;
+}
+.ProductLists a:visited{
+    color: rgb(0, 0, 0);
+}
+
+.ProductLists a{
+    color: orange;
+}
+
+p b{
+    font-size: medium;
+}
